@@ -1,1 +1,16 @@
 
+*{
+  font-family: Verdana;
+  background-color: black;
+}
+
+#title{
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  align-content: center;
+}
+
+#download{
+
+}
